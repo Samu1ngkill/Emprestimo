@@ -1,2 +1,0 @@
-# Emprestimo
-Pedir um empréstimo
